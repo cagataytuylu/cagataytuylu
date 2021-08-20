@@ -1,18 +1,17 @@
 ### Hi there 👋
 
-<!--
-**cagataytuylu/cagataytuylu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data science and machine learning enthusiast with strong statistical background.
 
-Here are some ideas to get you started:
+Creates data science and artificial intelligence solutions, build data-oriented products, and extracts useful information from something that can be defined as data using big data, machine learning, deep learning, and statistics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Big Data and AWS Cloud systems
-- 💬 Ask me about ...
-- 📫 How to reach me: [cagatay.tuylu@gmail.com]
+He writes about Data Science and Machine Learning.
+
+- 🌱 I’m currently learning: Advanced Big Data & Data Science At Scale Bootcamp and AWS MAchine Learning Nanodegree
+- 📫 How to reach me: cagatay.tuylu@gmail.com
 
 ## 📬 Get in touch
 
-- Web: [cagataytuylu.com][1]
-- LinkedIn: [linkedin.com/in/cagataytuylu][2]
-- Medium: [medium.com/cagataytuylu][3]
---!>
+- Web: [cagataytuylu.com](https://cagataytuylu.com)
+- LinkedIn: [linkedin.com/in/cagataytuylu](https://linkedin.com/in/cagataytuylu)
+- Medium: [medium.com/cagataytuylu](https://medium.com/cagataytuylu)
+- Email : [cagatay.tuylu@gmail.com](mailto:cagatay.tuylu@gmail.com)
