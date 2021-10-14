@@ -6,7 +6,7 @@ Creates data science and artificial intelligence solutions, build data-oriented 
 
 He writes about Data Science and Machine Learning.
 
-- 🌱 I’m currently learning: Advanced Big Data & Data Science At Scale Bootcamp and AWS MAchine Learning Nanodegree
+- 🌱 I’m currently learning: Advanced Big Data & Data Science At Scale Bootcamp and AWS Machine Learning Nanodegree
 - 📫 How to reach me: cagatay.tuylu@gmail.com
 
 ## 📬 Get in touch
