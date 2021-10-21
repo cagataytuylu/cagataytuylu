@@ -1,7 +1,6 @@
 <h1 >Hi 👋, I'm Cagatay Tuylu</h1>
 <h3 >Data science and machine learning enthusiast with strong statistical background. Creates data science and artificial intelligence solutions, build data-oriented products, and extracts useful information from something that can be defined as data using big data, machine learning, deep learning, and statistics. He writes about Data Science and Machine Learning.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cagataytuylu&label=Profile%20views&color=0e75b6&style=flat" alt="cagataytuylu" /> </p>
 
 - 📝 I regularly write articles on [https://medium.com/cagataytuylu](https://medium.com/cagataytuylu)
 
