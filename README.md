@@ -8,7 +8,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
+<a href="https://medium.com/@cagataytuylu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagataytuylu" height="30" width="40" /></a>
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/cagataytuylu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cagataytuylu" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15841877" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15841877" height="30" width="40" /></a>
 <a href="https://kaggle.com/cagataytuylu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="cagataytuylu" height="30" width="40" /></a>
-<a href="https://medium.com/@cagataytuylu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@cagataytuylu" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
